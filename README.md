@@ -1,2 +1,2 @@
 # completed-ruby-koans
-Solutions to the [ruby koans](http://rubykoans.com/)
+A solution to the [ruby koans](http://rubykoans.com/)
